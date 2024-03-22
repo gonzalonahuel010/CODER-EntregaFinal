@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Chicker Burger",
+        "price": 2000
+    },
+    {
+        "id": 2,
+        "name": "Chesee Burger",
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "name": "BBQ Burger",
+        "price": 3000
+    },
+    {
+        "id": 4,
+        "name": "Vegan Burger",
+        "price": 2000
+    },
+    {
+        "id": 5,
+        "name": "Onion Burger",
+        "price": 2000
+    },
+    {
+        "id": 6,
+        "name": "Agua mineral",
+        "price": 1000
+    },
+    {
+        "id": 7,
+        "name": "Coca Cola",
+        "price": 1500
+    },
+    {
+        "id": 8,
+        "name": "Sprite",
+        "price": 1500
+    },
+    {
+        "id": 9,
+        "name": "Fanta",
+        "price": 1500
+    },
+    {
+        "id": 10,
+        "name": "Paso de los Toros",
+        "price": 1500
+    },
+    {
+        "id": 11,
+        "name": "Pomelo",
+        "price": 1250
+    },
+    {
+        "id": 12,
+        "name": "Naranja",
+        "price": 1250
+    },
+    {
+        "id": 13,
+        "name": "Pera",
+        "price": 1250
+    },
+    {
+        "id": 14,
+        "name": "Manzana",
+        "price": 1250
+    }
+]
